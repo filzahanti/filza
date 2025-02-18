@@ -4,4 +4,4 @@ title: Welcome to
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-Satu kalimat
+Satu kalimat[[Test]]
