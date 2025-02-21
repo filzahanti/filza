@@ -1,5 +1,5 @@
 ---
-title: Welcome to a space where time and diverse ideas meet
+title: Welcome to a space where diverse ideas meet
 ---
 
 Hi! My name is Filza. This site is a mix of different projects I have worked on, from art to data. Feel free to explore and share your thoughts. 
