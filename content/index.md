@@ -1,5 +1,5 @@
 ---
-title: Welcome to
+title: Welcome to a Space Where Time and Diverse Ideas Meet
 ---
 
 This is a blank Quartz installation.
