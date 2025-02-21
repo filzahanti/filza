@@ -1,7 +1,7 @@
 ---
-title: Welcome to 
+title: Welcome to
 ---
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-Satu kalimat[[Test]]
+Satu kalimat[[Test]] 
