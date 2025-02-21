@@ -1,7 +1,9 @@
 ---
-title: Welcome to a Space Where Time and Diverse Ideas Meet
+title: Welcome to a space where time and diverse ideas meet
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-Satu kalimat[[Test]] 
+Hi! My name is Filza. This site is a mix of different projects I have worked on, from art to data. Feel free to explore and share your thoughts. 
+
+
+- Linkedin : [www.linkedin.com/in/filzahanti](https://www.linkedin.com/in/filzahanti/)
+- Instagram : [www.instagram.com/filzahanti/](https://www.instagram.com/filzahanti/)
