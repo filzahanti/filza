@@ -1,8 +1,8 @@
 ---
-title: Welcome to a space where diverse ideas meet
+title: Welcome to a Space Where Diverse Ideas Meet
 ---
 
-Hi! My name is Filza. This site is a mix of different projects I have worked on, from art to data. Feel free to explore and share your thoughts. 
+Hello, My name is Filza. This site is a mix of different projects I have worked on, from art to data. Feel free to explore and share your thoughts. 
 
 
 - Linkedin : [www.linkedin.com/in/filzahanti](https://www.linkedin.com/in/filzahanti/)
